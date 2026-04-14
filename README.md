@@ -57,9 +57,7 @@ bearings are plotted as vectors over topographic maps.
 A hornet is captured and equipped with a miniature VHF transmitter (weighing approx. 0.15g).
 Once released, the hornet returns to its nest. The drone is then deployed to an altitude of 50 to
 200 meters, establishing a clear Line-of-Sight to the surrounding landscape.
-
 4.2 Signal Acquisition and Direction Finding
-
 1. Scanning: The drone performs a controlled rotation or follows a grid pattern to scan for
 pulses at 148 MHz.
 2. Peak Detection: When the operator identifies the signal, the drone is oriented to find the
@@ -75,8 +73,6 @@ the nest's location.
 ● Refinement: Successive measurements from 3 or 4 points further narrow the AoI to a few
 square meters, allowing ground teams to locate the nest "surgically" with handheld
 equipment.
-
-
 
 
 5. Adaptability to Diverse Environments
