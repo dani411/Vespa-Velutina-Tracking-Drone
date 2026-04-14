@@ -1,13 +1,13 @@
 # Vespa-Velutina-Tracking-Drone
 Project for building a drone for tracking purpose
 
-VespaTracker: Drone-Assisted RF
+Drone-Assisted RF
 Triangulation for Vespa Velutina Control
 
 
 1. Executive Summary
 
-The VespaTracker project is a sophisticated technological response to the invasive threat
+The project is a sophisticated technological response to the invasive threat
 posed by the Vespa Velutina (Asian Yellow-Legged Hornet). By combining aerial robotics,
 Software Defined Radio (SDR), and real-time data analysis, this system enables the rapid
 localization of hornet nests. The core innovation lies in the use of a drone-mounted directional
@@ -79,7 +79,7 @@ equipment.
 
 5. Adaptability to Diverse Environments
 
-A key strength of VespaTracker is its resilience to environment-specific challenges:
+A key strength of this project is its resilience to environment-specific challenges:
 ● Urban Contexts: High-density LTE networks allow for low-latency streaming and easy
 integration with digital city maps.
 ● Wilderness/Forestry: In deep forests where signals are reflected by trees (multipath
@@ -101,7 +101,7 @@ Localization Method Multi-point RF Triangulation
 
 7. Conclusion
 
-The VespaTracker project represents a paradigm shift in invasive species management. By
+The project represents a paradigm shift in invasive species management. By
 elevating the receiver, we solve the most significant limitation of radio tracking: the "blindness"
 caused by terrain. This system provides a scalable, efficient, and highly accurate solution for
 protecting local apiculture and restoring ecological balance.
