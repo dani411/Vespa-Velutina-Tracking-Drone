@@ -75,6 +75,7 @@ the nest's location.
 ● Refinement: Successive measurements from 3 or 4 points further narrow the AoI to a few
 square meters, allowing ground teams to locate the nest "surgically" with handheld
 equipment.
+.
 
 
 5. Adaptability to Diverse Environments
