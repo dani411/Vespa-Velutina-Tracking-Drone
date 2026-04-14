@@ -44,7 +44,7 @@ accurate vector mapping.
 data streaming.
 ○ Wi-Fi Bridge (Point-to-Point): A high-power wireless link for remote, mountainous, The ground station is the central hub for data visualization and decision-making.
 
-Hardware: A ruggedized laptop or portable workstation.
+3.2 Hardware: A ruggedized laptop or portable workstation.
 ● Software Stack: SDR analysis tools such as SDR# (SDRSharp) or SDR++. These tools
 allow the operator to visualize the signal’s "waterfall" and accurately measure the
 Signal-to-Noise Ratio (SNR) and Peak Strength.
