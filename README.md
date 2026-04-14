@@ -75,11 +75,9 @@ the nest's location.
 ● Refinement: Successive measurements from 3 or 4 points further narrow the AoI to a few
 square meters, allowing ground teams to locate the nest "surgically" with handheld
 equipment.
-.
 
 
 5. Adaptability to Diverse Environments
-
 A key strength of VespaTracker is its resilience to environment-specific challenges:
 ● Urban Contexts: High-density LTE networks allow for low-latency streaming and easy
 integration with digital city maps.
