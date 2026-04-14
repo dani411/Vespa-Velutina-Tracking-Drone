@@ -77,6 +77,8 @@ square meters, allowing ground teams to locate the nest "surgically" with handhe
 equipment.
 
 
+
+
 5. Adaptability to Diverse Environments
 
 A key strength of VespaTracker is its resilience to environment-specific challenges:
