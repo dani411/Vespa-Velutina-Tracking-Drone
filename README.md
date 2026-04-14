@@ -3,6 +3,7 @@ Project for building a drone for tracking purpose
 
 VespaTracker: Drone-Assisted RF
 Triangulation for Vespa Velutina Control
+
 1. Executive Summary
 The VespaTracker project is a sophisticated technological response to the invasive threat
 posed by the Vespa Velutina (Asian Yellow-Legged Hornet). By combining aerial robotics,
