@@ -78,6 +78,7 @@ equipment.
 
 
 5. Adaptability to Diverse Environments
+
 A key strength of VespaTracker is its resilience to environment-specific challenges:
 ● Urban Contexts: High-density LTE networks allow for low-latency streaming and easy
 integration with digital city maps.
