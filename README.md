@@ -57,6 +57,7 @@ bearings are plotted as vectors over topographic maps.
 A hornet is captured and equipped with a miniature VHF transmitter (weighing approx. 0.15g).
 Once released, the hornet returns to its nest. The drone is then deployed to an altitude of 50 to
 200 meters, establishing a clear Line-of-Sight to the surrounding landscape.
+
 4.2 Signal Acquisition and Direction Finding
 1. Scanning: The drone performs a controlled rotation or follows a grid pattern to scan for
 pulses at 148 MHz.
@@ -64,6 +65,7 @@ pulses at 148 MHz.
 "Maximum Signal Strength" (the main lobe of the Yagi antenna).
 3. Vector Logging: At the point of maximum strength, a line is drawn on the map starting
 from the drone’s current GPS coordinates along the axis provided by the magnetometer.
+
 4.3 Triangulation and Surgical Localization
 A single bearing only provides a direction, not a distance. To solve this:
 ● The drone moves to a second, distant GPS location (creating a baseline).
