@@ -29,6 +29,7 @@ limited line-of-sight (LOS) available at ground level.
 The project is divided into two synergistic units connected via high-bandwidth data links.
 
 3.1 The Aerial Unit (The Drone)
+
 The drone acts as an elevated sensing platform, overcoming terrain-induced signal attenuation.
 ● RF Frontend: A 4-element Yagi-Uda antenna, specifically tuned to the 148 MHz VHF
 frequency. This antenna provides high directivity and gain, essential for picking up the
@@ -44,7 +45,9 @@ accurate vector mapping.
 data streaming.
 ○ Wi-Fi Bridge (Point-to-Point): A high-power wireless link for remote, mountainous, The ground station is the central hub for data visualization and decision-making.
 
-3.2 Hardware: A ruggedized laptop or portable workstation.
+3.2 Hardware:
+
+A ruggedized laptop or portable workstation.
 ● Software Stack: SDR analysis tools such as SDR# (SDRSharp) or SDR++. These tools
 allow the operator to visualize the signal’s "waterfall" and accurately measure the
 Signal-to-Noise Ratio (SNR) and Peak Strength.
